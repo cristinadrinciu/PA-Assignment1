@@ -1,0 +1,7 @@
+./compresie.cpp:55:  Could not find a newline character at the end of the file.  [whitespace/ending_newline] [5]
+Done processing ./colorare.cpp
+Done processing ./compresie.cpp
+Done processing ./criptat.cpp
+Done processing ./oferta.cpp
+Done processing ./servere.cpp
+Total errors found: 1
